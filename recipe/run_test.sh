@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 set -exuf
 
+if [[ "${CONDA_BUILD_CROSS_COMPILATION:-0}" == "1" && "${CMAKE_CROSSCOMPILING_EMULATOR:-}" == "" ]]; then
+  # This is currently only true on osx-arm64
+  exit 0
+fi
+
 # Test variable is set
 test "${CONDA_GO_COMPILER}" == 1
 
