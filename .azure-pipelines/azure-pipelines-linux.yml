@@ -56,6 +56,86 @@ jobs:
         CONFIG: linux_64_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strnocgogo_variant_ver2.2.0
         UPLOAD_PACKAGES: 'True'
         DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_aarch64_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0:
+        CONFIG: linux_aarch64_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_aarch64_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strnocgogo_variant_ver2.2.0:
+        CONFIG: linux_aarch64_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strnocgogo_variant_ver2.2.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_aarch64_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strcgogo_variant_ver2.3.0:
+        CONFIG: linux_aarch64_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strcgogo_variant_ver2.3.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_aarch64_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strnocgogo_variant_ver2.2.0:
+        CONFIG: linux_aarch64_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strnocgogo_variant_ver2.2.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_aarch64_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strcgogo_variant_ver2.3.0:
+        CONFIG: linux_aarch64_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strcgogo_variant_ver2.3.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_aarch64_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0:
+        CONFIG: linux_aarch64_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_aarch64_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strcgogo_variant_ver2.3.0:
+        CONFIG: linux_aarch64_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strcgogo_variant_ver2.3.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_aarch64_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strnocgogo_variant_ver2.2.0:
+        CONFIG: linux_aarch64_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strnocgogo_variant_ver2.2.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_aarch64_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strcgogo_variant_ver2.3.0:
+        CONFIG: linux_aarch64_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strcgogo_variant_ver2.3.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_aarch64_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strnocgogo_variant_ver2.2.0:
+        CONFIG: linux_aarch64_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strnocgogo_variant_ver2.2.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_ppc64le_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0:
+        CONFIG: linux_ppc64le_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_ppc64le_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strnocgogo_variant_ver2.2.0:
+        CONFIG: linux_ppc64le_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strnocgogo_variant_ver2.2.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_ppc64le_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strcgogo_variant_ver2.3.0:
+        CONFIG: linux_ppc64le_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strcgogo_variant_ver2.3.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_ppc64le_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strnocgogo_variant_ver2.2.0:
+        CONFIG: linux_ppc64le_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strnocgogo_variant_ver2.2.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_ppc64le_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strcgogo_variant_ver2.3.0:
+        CONFIG: linux_ppc64le_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strcgogo_variant_ver2.3.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_ppc64le_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0:
+        CONFIG: linux_ppc64le_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_ppc64le_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strcgogo_variant_ver2.3.0:
+        CONFIG: linux_ppc64le_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strcgogo_variant_ver2.3.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_ppc64le_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strnocgogo_variant_ver2.2.0:
+        CONFIG: linux_ppc64le_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strnocgogo_variant_ver2.2.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_ppc64le_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strcgogo_variant_ver2.3.0:
+        CONFIG: linux_ppc64le_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strcgogo_variant_ver2.3.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
+      linux_ppc64le_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strnocgogo_variant_ver2.2.0:
+        CONFIG: linux_ppc64le_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strnocgogo_variant_ver2.2.0
+        UPLOAD_PACKAGES: 'True'
+        DOCKER_IMAGE: quay.io/condaforge/linux-anvil-comp7
   timeoutInMinutes: 360
 
   steps:

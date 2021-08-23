@@ -125,6 +125,146 @@ Current build status
                 </a>
               </td>
             </tr><tr>
+              <td>linux_aarch64_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_aarch64_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_GOARCHamd64GOOSdarwincross_target_platformosx-64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_GOARCHamd64GOOSlinuxcross_target_platformlinux-64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_GOARCHarm64GOOSdarwincross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_GOARCHarm64GOOSlinuxcross_target_platformlinux-aarch64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=linux&configuration=linux_ppc64le_GOARCHppc64leGOOSlinuxcross_target_platformlinux-ppc64lego_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
               <td>osx_64_GOARCHamd64cross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
@@ -150,6 +290,34 @@ Current build status
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=osx&configuration=osx_64_GOARCHarm64cross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_GOARCHamd64cross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=osx&configuration=osx_arm64_GOARCHamd64cross_target_platformosx-64go_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_GOARCHamd64cross_target_platformosx-64go_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=osx&configuration=osx_arm64_GOARCHamd64cross_target_platformosx-64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_GOARCHarm64cross_target_platformosx-arm64go_variant_strcgogo_variant_ver2.3.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=osx&configuration=osx_arm64_GOARCHarm64cross_target_platformosx-arm64go_variant_strcgogo_variant_ver2.3.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_GOARCHarm64cross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13693&branchName=master">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/go-activation-feedstock?branchName=master&jobName=osx&configuration=osx_arm64_GOARCHarm64cross_target_platformosx-arm64go_variant_strnocgogo_variant_ver2.2.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -179,18 +347,10 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-go--cgo_linux--64-green.svg)](https://anaconda.org/conda-forge/go-cgo_linux-64) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-cgo_linux-64.svg)](https://anaconda.org/conda-forge/go-cgo_linux-64) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-cgo_linux-64.svg)](https://anaconda.org/conda-forge/go-cgo_linux-64) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-cgo_linux-64.svg)](https://anaconda.org/conda-forge/go-cgo_linux-64) |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-go--cgo_linux--aarch64-green.svg)](https://anaconda.org/conda-forge/go-cgo_linux-aarch64) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-cgo_linux-aarch64.svg)](https://anaconda.org/conda-forge/go-cgo_linux-aarch64) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-cgo_linux-aarch64.svg)](https://anaconda.org/conda-forge/go-cgo_linux-aarch64) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-cgo_linux-aarch64.svg)](https://anaconda.org/conda-forge/go-cgo_linux-aarch64) |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-go--cgo_linux--ppc64le-green.svg)](https://anaconda.org/conda-forge/go-cgo_linux-ppc64le) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-cgo_linux-ppc64le.svg)](https://anaconda.org/conda-forge/go-cgo_linux-ppc64le) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-cgo_linux-ppc64le.svg)](https://anaconda.org/conda-forge/go-cgo_linux-ppc64le) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-cgo_linux-ppc64le.svg)](https://anaconda.org/conda-forge/go-cgo_linux-ppc64le) |
 | [![Conda Recipe](https://img.shields.io/badge/recipe-go--cgo_osx--64-green.svg)](https://anaconda.org/conda-forge/go-cgo_osx-64) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-cgo_osx-64.svg)](https://anaconda.org/conda-forge/go-cgo_osx-64) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-cgo_osx-64.svg)](https://anaconda.org/conda-forge/go-cgo_osx-64) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-cgo_osx-64.svg)](https://anaconda.org/conda-forge/go-cgo_osx-64) |
 | [![Conda Recipe](https://img.shields.io/badge/recipe-go--cgo_osx--arm64-green.svg)](https://anaconda.org/conda-forge/go-cgo_osx-arm64) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-cgo_osx-arm64.svg)](https://anaconda.org/conda-forge/go-cgo_osx-arm64) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-cgo_osx-arm64.svg)](https://anaconda.org/conda-forge/go-cgo_osx-arm64) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-cgo_osx-arm64.svg)](https://anaconda.org/conda-forge/go-cgo_osx-arm64) |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-go--cgo_win--64-green.svg)](https://anaconda.org/conda-forge/go-cgo_win-64) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-cgo_win-64.svg)](https://anaconda.org/conda-forge/go-cgo_win-64) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-cgo_win-64.svg)](https://anaconda.org/conda-forge/go-cgo_win-64) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-cgo_win-64.svg)](https://anaconda.org/conda-forge/go-cgo_win-64) |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-go--nocgo_linux--64-green.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-64) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-nocgo_linux-64.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-64) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-nocgo_linux-64.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-64) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-nocgo_linux-64.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-64) |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-go--nocgo_linux--aarch64-green.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-aarch64) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-nocgo_linux-aarch64.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-aarch64) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-nocgo_linux-aarch64.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-aarch64) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-nocgo_linux-aarch64.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-aarch64) |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-go--nocgo_linux--ppc64le-green.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-ppc64le) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-nocgo_linux-ppc64le.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-ppc64le) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-nocgo_linux-ppc64le.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-ppc64le) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-nocgo_linux-ppc64le.svg)](https://anaconda.org/conda-forge/go-nocgo_linux-ppc64le) |
 | [![Conda Recipe](https://img.shields.io/badge/recipe-go--nocgo_osx--64-green.svg)](https://anaconda.org/conda-forge/go-nocgo_osx-64) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-nocgo_osx-64.svg)](https://anaconda.org/conda-forge/go-nocgo_osx-64) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-nocgo_osx-64.svg)](https://anaconda.org/conda-forge/go-nocgo_osx-64) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-nocgo_osx-64.svg)](https://anaconda.org/conda-forge/go-nocgo_osx-64) |
 | [![Conda Recipe](https://img.shields.io/badge/recipe-go--nocgo_osx--arm64-green.svg)](https://anaconda.org/conda-forge/go-nocgo_osx-arm64) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-nocgo_osx-arm64.svg)](https://anaconda.org/conda-forge/go-nocgo_osx-arm64) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-nocgo_osx-arm64.svg)](https://anaconda.org/conda-forge/go-nocgo_osx-arm64) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-nocgo_osx-arm64.svg)](https://anaconda.org/conda-forge/go-nocgo_osx-arm64) |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-go--nocgo_win--64-green.svg)](https://anaconda.org/conda-forge/go-nocgo_win-64) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/go-nocgo_win-64.svg)](https://anaconda.org/conda-forge/go-nocgo_win-64) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/go-nocgo_win-64.svg)](https://anaconda.org/conda-forge/go-nocgo_win-64) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/go-nocgo_win-64.svg)](https://anaconda.org/conda-forge/go-nocgo_win-64) |
 
 Installing go-activation
 ========================
@@ -202,16 +362,16 @@ conda config --add channels conda-forge
 conda config --set channel_priority strict
 ```
 
-Once the `conda-forge` channel has been enabled, `go-cgo_linux-64, go-cgo_linux-aarch64, go-cgo_linux-ppc64le, go-cgo_osx-64, go-cgo_osx-arm64, go-cgo_win-64, go-nocgo_linux-64, go-nocgo_linux-aarch64, go-nocgo_linux-ppc64le, go-nocgo_osx-64, go-nocgo_osx-arm64, go-nocgo_win-64` can be installed with:
+Once the `conda-forge` channel has been enabled, `go-cgo_osx-64, go-cgo_osx-arm64, go-nocgo_osx-64, go-nocgo_osx-arm64` can be installed with:
 
 ```
-conda install go-cgo_linux-64 go-cgo_linux-aarch64 go-cgo_linux-ppc64le go-cgo_osx-64 go-cgo_osx-arm64 go-cgo_win-64 go-nocgo_linux-64 go-nocgo_linux-aarch64 go-nocgo_linux-ppc64le go-nocgo_osx-64 go-nocgo_osx-arm64 go-nocgo_win-64
+conda install go-cgo_osx-64 go-cgo_osx-arm64 go-nocgo_osx-64 go-nocgo_osx-arm64
 ```
 
-It is possible to list all of the versions of `go-cgo_linux-64` available on your platform with:
+It is possible to list all of the versions of `go-cgo_osx-64` available on your platform with:
 
 ```
-conda search go-cgo_linux-64 --channel conda-forge
+conda search go-cgo_osx-64 --channel conda-forge
 ```
 
 
