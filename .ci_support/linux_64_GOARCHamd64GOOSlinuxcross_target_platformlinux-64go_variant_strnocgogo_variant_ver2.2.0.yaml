@@ -11,7 +11,7 @@ channel_targets:
 cross_target_platform:
 - linux-64
 docker_image:
-- quay.io/condaforge/linux-anvil-comp7
+- quay.io/condaforge/linux-anvil-cos7-x86_64
 go_variant_str:
 - nocgo
 go_variant_ver:
@@ -19,8 +19,6 @@ go_variant_ver:
 target_platform:
 - linux-64
 zip_keys:
-- - cdt_name
-  - docker_image
 - - cross_target_platform
   - GOOS
   - GOARCH
