@@ -11,13 +11,13 @@ test "${CONDA_GO_COMPILER}" == 1
 
 
 # Test GOBIN is set to $PREFIX/bin
-test "$(go env GOBIN)" == "$CONDA_PREFIX/bin"
+test "$(realpath $(go env GOBIN))" == "$(realpath $CONDA_PREFIX/bin)"
 
 
 # Test GOPATH is set to SRC-DIR
 # We cannot use that here though as conda-build checks for
 # the existence of SRC-DIR for an old behaviour change.
-test "$(go env GOPATH)" == "${PWD}/gopath"
+test "$(realpath $(go env GOPATH))" == "$(realpath ${PWD}/gopath)"
 
 
 # Print diagnostics
